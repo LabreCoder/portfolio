@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- ~/ do logo, desenhado em traços (favicon não carrega fontes) -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#0b0b10" stroke="#4a1f6f" stroke-width="3"/>
+  <path d="M12 36c3-6 7-6 10-3s7 3 10-3" fill="none" stroke="#b48ae0" stroke-width="5.5" stroke-linecap="round"/>
+  <path d="M38 48 50 16" fill="none" stroke="#e7d8ff" stroke-width="5.5" stroke-linecap="round"/>
+</svg>

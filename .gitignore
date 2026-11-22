@@ -1,0 +1,40 @@
+# --- Fontes locais: NUNCA vão para o repositório público ---
+CONTEXTO.md
+PREFERENCIAS.md
+PROJETO.md
+Curriculum_*.pdf
+Curriculo_*
+curriculo-build/
+
+# --- Backups locais ---
+*.bak
+
+# --- Segredos ---
+.env
+.env.*
+!.env.example
+
+# --- Node / Vite ---
+node_modules/
+dist/
+.vite/
+*.log
+npm-debug.log*
+
+# --- Sistema e editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# --- Export do Figma Make ---
+portfolio.zip
+build/
+.cache/
+*.tsbuildinfo
+vite.config.*.timestamp-*
+logs/
+
+# Cache do pnpm (caso apareça fora do volume do Docker)
+.pnpm-store/
